@@ -1,5 +1,4 @@
 import SignUp from "./components/signUp"
-
 function App() {
  
 
@@ -9,5 +8,3 @@ function App() {
     </>
   )
 }
-
-export default App
